@@ -1,0 +1,4 @@
+Username;DN;UPN;email;enabled;manager;AZperUserMFA;AZdefaultMFA;AZpriPhone;AZaltPhone;OnMFAPriPhone;OnMFABCKPhone;OnMFAMode
+Username;NOT_FOUND;;;;;;;;;+Primary Country CodePrimary Phone;+Backup Country CodeBackup Phone;Mode
+AAttteg;CN=AAttteg;Enabled;;;;;+447467565654640;+1;Phone Call
+AAil;NOT_FOUND;;;;;;;;;+1;+1;Phone Call
